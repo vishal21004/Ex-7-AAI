@@ -1,4 +1,4 @@
-<H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
+# Implementation of Text  Summarization</H1>
 
 ## Aim: 
 To perform automatic text summarization using Natural Language Processing (NLP) techniques.
